@@ -10,4 +10,11 @@ The BNeDiction project aims at providing a general methodology for making predic
 Based on recent advances on the symbolic and implicit formal characterization of the compatible models using logic programming, the key challenges relate to the sampling of ensemble of diverse models, and the evaluation and maximization of its predictive power.
 Overall, the project aspires at delivering a convincing methodology for assessing the adequacy of automated logical modelling from experimental data, a key and recurring question at the intersection of artificial intelligence and life sciences.
 
-*Principal investigator: [Loïc Paulevé](https://loicpauleve.name)*
+*Principal investigator: [Loïc Paulevé](https://loicpauleve.name)* (CNRS, LaBRI,
+France)
+
+![](img/ubdx.png){:style="height: 2em"}
+![](img/cnrs.png){:style="height: 2em"}
+![](img/inp.png){:style="height: 2em"}
+![](img/inria.png){:style="height: 2em"}
+
