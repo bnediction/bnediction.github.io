@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Predictive Boolean Network Ensembles
 ---
-
-# Predictive Boolean Network Ensembles
 
 *Research project funded by [ANR](http://www.agence-nationale-recherche.fr) (French National Research Agency; grant ANR-20-CE45-0001)*
 
