@@ -3,7 +3,7 @@ layout: page
 title: Predictive Boolean Network Ensembles
 ---
 
-*Research project funded by [ANR](http://www.agence-nationale-recherche.fr) (French National Research Agency; grant ANR-20-CE45-0001)*
+*Research project funded by [ANR](http://www.agence-nationale-recherche.fr) (French National Research Agency; grant [ANR-20-CE45-0001](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-e2953671f5/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=4ff7d3c4d0c987c2942d04c302a303fe))*
 
 Bridging the gap between dynamical systems and their partial observation, computational models of biological processes aim at uncovering key mechanisms driving cellular dynamics, and ultimately predict their behaviour under unobserved conditions.
 The BNeDiction project aims at providing a general methodology for making predictions from data on systems structure and dynamics by the means of ensembles of Boolean networks, an unexplored direction.
